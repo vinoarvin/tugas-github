@@ -4,7 +4,7 @@ const USERS = [
   { username: "guru.mapel", password: "Guru@2026", role: "guru",  name: "Pak Dimas (Guru Mapel)" },
   { username: "andi",  password: "Andi@2026",  role: "siswa", name: "Andi Pratama" },
   { username: "bela",  password: "Bela@2026",  role: "siswa", name: "Bela Safitri" },
-  { username: "citra", password: "Citra@2026", role: "siswa", name: "Citra Lestari" },
+  { username: "citra", password: "Citra@2026", role: "siswa", name: "Citra Lestarai" },
   { username: "ci", password: "Ci@2026", role: "siswa", name: "Citra " }
 ];
 const ROLE_LABEL = { wali: "Wali Kelas", guru: "Guru Mapel", siswa: "Siswa" };
